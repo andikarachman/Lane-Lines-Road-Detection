@@ -32,7 +32,7 @@ For each set of corners, the output is displayed and shown to the user (if speci
   
 Finally the corner points are sent to `cv2.calibrateCamera` to get resulting image points and object points.  This dictionary is then saved for reuse in undistorting other images in the pipeline.
 
-![](output_images/chessboard1.jpg) ![](output_images/chessboard9.jpg)
+![](output_images/chessboard2.jpg) ![](output_images/chessboard9.jpg)
 
 ##### Example chessboard images with corners drawn
 
