@@ -1,4 +1,4 @@
 moviepy==1.0.3
-numpy==1.18.2
+numpy==1.22.0
 opencv-contrib-python==4.2.0.32
 PyQt5==5.14.2
